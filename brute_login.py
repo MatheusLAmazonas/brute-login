@@ -1,6 +1,9 @@
 import requests
 from tqdm import tqdm
 
+# BRUTE LOGIN
+# Author: AMAZ0NAS
+
 def bruteforce_login():
     print("---------------------------")
     print("|      BRUTE LOGIN        |")
