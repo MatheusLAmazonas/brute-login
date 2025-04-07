@@ -29,7 +29,7 @@ git clone https://github.com/MatheusLAmazonas/brute-login<br>
 cd brute-login<br>
 
 ## 📦 How to use:
-python bruteforce_login.py
+python brute_login.py
 
 Exemplo de uso:<br>
 Enter the login URL: https://exemplo.com/login<br>
